@@ -78,8 +78,7 @@ To create, open, and manage files and folders, use the Explorer view on the Acti
 
 10. Using Source Control:
     - How can users integrate Git with VS Code for version control? Describe the process of initializing a repository, making commits, and pushing changes to GitHub.
-
- Users can integrate Git with VS Code by installing the Git extension and initializing a repository in the project folder. To make commits and push changes to GitHub, users can use the Source Control view or Git commands in the integrated terminal.
+    - Users can integrate Git with VS Code by installing the Git extension and initializing a repository in the project folder. To make commits and push changes to GitHub, users can use the Source Control view or Git commands in the integrated terminal.
 
 
  
